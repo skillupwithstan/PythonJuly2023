@@ -1,0 +1,36 @@
+    --> Collections
+           --> String
+           --> List --> []
+           --> Tuples --> ()
+           --> Set --> {}
+	   --> Frozenset
+           --> Dictionary --> {key=value}
+
+               1. For displaying the values
+		  Server : server01.apac.com
+                  Port   : 22
+ 	       2. To process the existing dictionary data
+
+
+Range class:
+    range(start, end, step)
+    0,1,2,3,4,5
+    0,2,4,6,8
+
+    range(0,6)
+
+
+Dictionary --> key-value pair
+
+Name: Arockia
+Age: 30
+Address: Chennai
+
+
+dic["Address"] ==> Chennai
+dic["Age"] ==> 30
+
+
+incident_number:INC0324324
+approval_group:Windows_Team
+Short_Summary: Agent is down
