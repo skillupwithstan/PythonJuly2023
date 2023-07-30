@@ -1,0 +1,5 @@
+1. Get servers list from user
+2. Identify unique users count from the given list
+3. Sort the given user
+4. Verify that the server name doesnot have "localhost"
+5. Combine all servers together like (server01:server02:etc.,)
