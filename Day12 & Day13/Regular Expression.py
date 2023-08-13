@@ -1,6 +1,5 @@
 import re
 
-'''
 userinput = input("Enter the text to search: ")
 #print(re.search(userinput,"Neopolean"))
 if(re.search(userinput,"Neopolean") != None):
@@ -87,7 +86,6 @@ if(re.search(r"Arockia|Neo","Neopolean") != None):
     print("Pattern found")
 else:
     print("Pattern not found")
-'''
 
 print(re.search("N\d","['N1','N3','Neo']").group())
 print(re.findall("N\d","['N1','N3','Neo']"))
