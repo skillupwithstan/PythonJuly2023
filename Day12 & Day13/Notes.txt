@@ -1,0 +1,62 @@
+Oops Concepts
+--------------
+
+  --> Object : Properties   						| Methods
+	car  : model, color 						| start, break, stop
+        service: service name, service description, status, start type  | start, restart, stop, resume
+        process: process name, pm size, vm size, etc.,                  | kill, start
+
+  --> Methods --> To perform some actions 
+
+  --> Classes 
+
+Python modules & packages
+
+
+
+Class Vehicle:
+{
+  private string model; 
+  public string color;
+  void start()
+  {
+     dfdgf
+     dsfd
+  }
+  stop()
+  {
+   
+  }
+  start()
+}
+class Car: Vehicle
+{
+	
+}
+class Cycle: Vehicle
+{
+	
+}
+
+
+
+class Maths
+{
+   Add(a,b)
+   {
+     print(a+b)  
+   }
+
+   Add(10,5)
+}
+class Math1: Maths
+{
+   Maths.Add(10,3)
+}
+
+class Math2:
+{
+
+}
+
+Accessors - Private, Protected, Public
