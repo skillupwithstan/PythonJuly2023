@@ -1,4 +1,3 @@
-'''
 # Random module
 import random
 
@@ -11,7 +10,6 @@ print("************************************")
 # dir() function used to get a list containing all attributes of a module
 #print(dir(random))
 
-'''
 # math module
 import math
 num1 = 23.81
@@ -25,4 +23,4 @@ print("Number Truncation : ",math.trunc(num1))
 
 print("Round-off Value : ",round(num1))
 
-print("************************************")
+print("************************************"
