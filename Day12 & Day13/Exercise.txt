@@ -9,7 +9,7 @@ Application Id=0ff1ce15-a989-479d-af46-f275c6370663
 Windows Installer reconfigured the product. Product Name: icecap_collection_x64. Product Version: 16.10.31306. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0.
 Backup IP Configured: 2.45.124.53
 
-By using Regualr Expression,
+By using Regular Expression,
 
 1. Fetch Date related lines.
 2. Fetch Product Versions
