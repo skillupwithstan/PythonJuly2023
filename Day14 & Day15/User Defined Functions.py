@@ -1,5 +1,4 @@
 '''
-
 # Function declaration
 def samplePrint():
     print("This is a sample function!")
