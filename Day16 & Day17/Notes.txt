@@ -1,6 +1,3 @@
-Welcome to Python (in Tamil) - Day 18
--------------------------------------
-
 --> Errors/Exceptions
     --> Types
     --> Examples
