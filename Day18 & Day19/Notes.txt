@@ -1,10 +1,17 @@
-Welcome to Python in Tamil - Day 20
------------------------------------
+1. Infra. Automation
+    psutil
+    shutil
+    win32serviceutil
+    wmi --> windows management instrumentation
+        CIM having a lot of classes which is related to system, application
+        win32_*
+	win32_operatingsystem --> os name, caption, bootup time, version
+	win32_service --> all service info, service name, status, etc.,
+        win32_bios  --> version, name
 
-1. Basic Infra. Automation - Windows Service Management
+  CIM --> common information model
 2. DB integration - MySQL
 3. API Management
-
 
 Requirement - To fetch service information from the server
 
