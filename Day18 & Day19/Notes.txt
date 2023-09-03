@@ -56,3 +56,17 @@ API documentation --> Project specific, General
 
 ansible --> uri module  --> get(), post(), put(), delete()
 python --> requests module --> get(), post(), put(), delete()
+
+--> API Management
+
+	Application Programming Interface - API
+
+	API URL --> credentials
+
+	Application URL: https://google.service-now.com/
+	
+	API URL: https://google.service-now.com/api/v1
+
+--> URLLIB3 Module to extract contents from the web page
+
+--> Calling an external scripts (PowerShell, Shell commands/Scripts)
