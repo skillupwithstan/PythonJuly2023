@@ -1,0 +1,44 @@
+Day 20 - The Last Day
+---------------------
+1. Recap - Q/A
+2. Remote execution
+	--> winrm
+        --> paramiko
+3. Logging Techniques
+4. Real time use cases which is related backup configuration
+5. Advanced topics - Application Development with Python
+6. Final QA and Revision to some topics if requested
+
+<html>
+<head>
+<h1>Hi Team,</h1>
+<p>Please find the below table output.</p>
+ <table>
+    <tr>
+      <td>
+
+      </td>
+    </tr>
+ </table>
+</html>
+
+Releases & Downloads	: https://www.python.org/
+Complete Modules 	: https://docs.python.org/3/py-modindex.html
+Discussion Forums	: https://discuss.python.org/c/users/7
+		  	  https://python-forum.io/
+
+
+
+Configuration Managment Tools --> DevOps LifeCycle (After The Deployment)
+
+1. Puppet --> Ruby
+2. Chef --> Ruby
+3. Salt Stack --> Python
+4. Ansible --> Python
+     --> Ansible Core (Freeware)
+     --> Ansible Tower (Licensed)
+
+Gitlab
+Github
+Bitbucket
+TFS
